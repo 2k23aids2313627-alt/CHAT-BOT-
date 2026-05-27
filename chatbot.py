@@ -43,7 +43,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🤖 Mera Private AI Chatbot")
+st.title("🤖 JARVIS")
 st.caption("Powered by Claude (AWS Bedrock) + DuckDuckGo Web Search")
 
 # =====================
