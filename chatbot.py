@@ -38,7 +38,7 @@ def web_search(query):
 # Page Config
 # =====================
 st.set_page_config(
-    page_title="Mera AI Chatbot",
+    page_title="JARVIS",
     page_icon="🤖",
     layout="centered"
 )
